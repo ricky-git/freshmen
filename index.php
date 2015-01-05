@@ -8,7 +8,5 @@
 $wechatObj = new wechatCallbackapiTest(APP_ID,APP_SECRET);
  $wechatObj->Run();
  
-
-
  
 ?>
